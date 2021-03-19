@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CARBOGRES SAS.exe" version="1.0.0.0" publicKeyToken="2d268a2e374033ec" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="imagen_2021-02-06_131111.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CARBOGRES SAS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CARBOGRES SAS.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CARBOGRES SAS.exe" size="3650032">
+      <assemblyIdentity name="CARBOGRES SAS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RY6uFHOtWg4nUdHOASKj9v0VS7cz0nCm1BEc+IYyVrw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CARBOGRES SAS.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="imagen_2021-02-06_131111.ico" size="232510">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8sZ7IrtqJ8qvpCGhoht+rXGMNOrP5e6dvf19BmaLd+A=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-R48K33BI\Usuario" issuerKeyHash="2b1f85e2b8679e6c9aa362648f5ddd1661e45586" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>FXc/8fn8NKTK6BVqu2GTUNKJRy5D8Q9jVuX3a2cgGa0=</DigestValue></Reference></SignedInfo><SignatureValue>QE5z1BBs6/0zTnh+rx7us5p0/V966f8pvb+0l2dQSjVqUSsZ4Swe6BTEQyvCwMPOxmQKh8cPu6bG2nBI1zZ7XtRQ9UBT8YO6QrdsnqtLOEivjyqO/OdtSbHyipSTep8u/ucTo6UGZbr9MokpBMQrwLvf7wyidZG3n8IQJ+eIGQY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>s2pkII9e8XjZICw4Ef6fA7GJh63ST2bGpXcmMSOBBUY5PZGl6VecbDfYNbNnxmC3M5/N6YCvGzD/Gh/k932zKVudWFLodUVGqfu8vnlYy1LOQPv3EgSRFPaCmOhadSlql1qQlUTSZjTnWlQMvW/RyDn0m3e7hm7TMXqCiKqfSIE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ad1920676bf7e556630ff1432e4789d2509361bb6a15e8caa434fcf9f13f7715" Description="" Url=""><as:assemblyIdentity name="CARBOGRES SAS.exe" version="1.0.0.0" publicKeyToken="2d268a2e374033ec" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-R48K33BI\Usuario</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>kBXi7vUAS8BeCvMZ6ZfCZ73NZ4MHF3d3xLmKk2VCFms=</DigestValue></Reference></SignedInfo><SignatureValue>Nj//le80TTTLlxQTfVgZOEUIXgAamMaXmjrK4P9hMx9Ddc5HRkX4aVcgXInRWSaJOFzLHnNmhhOwWoyHFgTV7VrGhYM4kS5bZ78RqovFPIedxQw7lxeo+trKdg6doHosESKYeRZpeWR9iT+xm/v6VpMPhyO2qnwCtShYQwpFV5A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>s2pkII9e8XjZICw4Ef6fA7GJh63ST2bGpXcmMSOBBUY5PZGl6VecbDfYNbNnxmC3M5/N6YCvGzD/Gh/k932zKVudWFLodUVGqfu8vnlYy1LOQPv3EgSRFPaCmOhadSlql1qQlUTSZjTnWlQMvW/RyDn0m3e7hm7TMXqCiKqfSIE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQEAkHEEa1t61IXv6Y2wpogDANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4ATABBAFAAVABPAFAALQBSADQAOABLADMAMwBCAEkAXABVAHMAdQBhAHIAaQBvMB4XDTIxMDMwNDE1MzUxNVoXDTIyMDMwNDIxMzUxNVowOTE3MDUGA1UEAx4uAEwAQQBQAFQATwBQAC0AUgA0ADgASwAzADMAQgBJAFwAVQBzAHUAYQByAGkAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAs2pkII9e8XjZICw4Ef6fA7GJh63ST2bGpXcmMSOBBUY5PZGl6VecbDfYNbNnxmC3M5/N6YCvGzD/Gh/k932zKVudWFLodUVGqfu8vnlYy1LOQPv3EgSRFPaCmOhadSlql1qQlUTSZjTnWlQMvW/RyDn0m3e7hm7TMXqCiKqfSIECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBnlHWPSRcKlaI88wQkOveCEIZel6ZuouFt2kn2Of6w+O6fDjilPkfQ6mOg0QcpujmXvsfTTM3fY2I/P6/GD8K8LsVPswl6h+wTNsXKyghVVwnmiBC12j8wXxrFeOFwLJX6QlP0FQAzs/g0CMTK2bTJit9dsjRL4HTSHlIPYxf7WQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

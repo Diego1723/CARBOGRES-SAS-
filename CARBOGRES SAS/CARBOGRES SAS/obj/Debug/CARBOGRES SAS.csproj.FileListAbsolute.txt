@@ -1,0 +1,24 @@
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\bin\Debug\CARBOGRES SAS.exe.config
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\bin\Debug\CARBOGRES SAS.exe
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\bin\Debug\CARBOGRES SAS.pdb
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES SAS.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES SAS.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES SAS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES SAS.exe
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES SAS.pdb
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.Bienvenida.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.registro.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.inicio.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.Menu.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.registroPersonal.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.RegistroMaterial.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.MMaterial.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.BUSCARM.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.MENUSALIDA.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.RmaterialSAL.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES_SAS.editarSalida.resources
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\bin\Debug\CARBOGRES SAS.exe.manifest
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\bin\Debug\CARBOGRES SAS.application
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES SAS.exe.manifest
+C:\Users\Usuario\source\repos\CARBOGRES SAS\CARBOGRES SAS\obj\Debug\CARBOGRES SAS.application
